@@ -1,0 +1,19 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "authors": [
+    "Jonathan <angel.archundia2610@gmail.com>"
+  ],
+  "description": "paw",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "www.google.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
