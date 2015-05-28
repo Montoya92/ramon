@@ -7,7 +7,7 @@ modulo1.controller("mainCtrl",[
 		$scope.test = "Hola Angular";
 		// Modelo
 		$scope.posts = 
-		[{title: "Post 1", upvotes: 5},
+		[{title: "Post 1", upvotes: 52},
 		 {title: "Post 2", upvotes: 15},
 		 {title: "Post 3", upvotes: 7},
 		 {title: "Post 4", upvotes: 9},
