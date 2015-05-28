@@ -59,7 +59,7 @@ modulo1.factory('posts',[function(){
 
 // Creando controlador	
 // dependency injection
-// Creando controlador mainCtrl
+// Creando controlador maCtrl
 modulo1.controller("mainCtrl",[
 	'$scope','posts', // Inyectando factory post
 	function($scope, posts){
